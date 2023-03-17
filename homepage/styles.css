@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+h1{
+    text-align: center;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+  }
+  #restaurant1{
+    width: 150px;
+  }
+  .container {
+    width: 100%;
+    margin: auto;
+    background-color: black;
+
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+  p {
+    color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
